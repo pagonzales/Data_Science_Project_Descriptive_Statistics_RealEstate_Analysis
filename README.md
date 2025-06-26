@@ -12,10 +12,18 @@ To look at the relationship between price V.S. area, and price V.S. age of a rea
 - Is the real estate price related to the area?
 
 ## Process
+- First, identify what type of data and level of measurements are in the data set.
+- Next, create a frequency distribution graph of prices of real estate property using histogram
+- From there, you can see the skewness of the graph and get some insights.
+- Make a frequency graph also for the distribution of age of the buyer.
+- Then, Create a scatter plot for both frequency distribution graph (price V.S. area, and price V.S. age)
+- Next, calculate the corresponding covariance and correlation to further expand the analysis and their relationship.
+- Make a frequency table in terms of country and calculate also the relative and cummulative frequency.
+- Then, create a pareto diagram to gather what the contries contributing to the sold property.
+- Finally, create a descriptive statistc using data analysis toolpack to confirm the data further.
 
 ## Image
 ![Image](https://github.com/user-attachments/assets/bcb8fb47-48f4-45f0-b4d7-29d2c05d51a4)
-
 
 
 
