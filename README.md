@@ -11,7 +11,8 @@ To confirm the relationship between price and area of a real estate property bas
 ## Process
 
 ## Image
-![Image](https://github.com/user-attachments/assets/21ae00fd-8453-4f9b-92d3-9cfe16683814)
+![Image](https://github.com/user-attachments/assets/6d8a27ff-8f87-497c-aceb-f24be37961b7)
+
 
 
 ## Project Insights
