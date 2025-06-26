@@ -5,6 +5,8 @@ To confirm the relationship between price and area of a real estate property bas
 ## Data used
 - <a href = "https://github.com/pagonzales/Data_Science_Project_Descriptive_Statistics_RealEstate_Analysis/blob/main/Database.xlsx">Dataset</a>
 ## Questions
+- How does the prices from the year 2004-2007 of a Real Estate company vary.
+- What country 
 
 ## Process
 
