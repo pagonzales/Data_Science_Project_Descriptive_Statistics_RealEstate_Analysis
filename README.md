@@ -1,6 +1,6 @@
 # Real Estate Analysis (Using Descriptive Statistics and MS Excel)
 ## Project Objective
-To look at the relationship between price V.S. area, and price V.S. age of a real estate property based on the data set from a certain real estate company using descriptive statistics and MS Excel. Also, to know which country is more likely to buy from the said real estate property
+To examine the relationship between price and area, and between price and age of real estate properties using descriptive statistics and MS Excel, based on a dataset from a certain real estate company. Additionally, to identify which country is more likely to purchase properties from the said company.
 
 ## Data used
 - <a href = "https://github.com/pagonzales/Data_Science_Project_Descriptive_Statistics_RealEstate_Analysis/blob/main/Database.xlsx">Dataset</a>
